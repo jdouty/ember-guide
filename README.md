@@ -1,7 +1,6 @@
 # Ember-guide
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+All the code created while walking through the Ember 2.5 Guide.
 
 ## Prerequisites
 
