@@ -1,0 +1,537 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"run",
+				"runningCost"
+			],
+			[
+				"get",
+				"getMeetingLength"
+			],
+			[
+				"parti",
+				"participants"
+			],
+			[
+				"t",
+				"time"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"se",
+				"selected	Attr"
+			],
+			[
+				"select",
+				"selectedTime"
+			],
+			[
+				"selec",
+				"selectedTime"
+			],
+			[
+				"nu",
+				"numOf"
+			],
+			[
+				"par",
+				"participants"
+			],
+			[
+				"part",
+				"participants"
+			],
+			[
+				"p",
+				"participants"
+			],
+			[
+				"st",
+				"store	DS.Store.extend()"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"object",
+				"objectAt"
+			],
+			[
+				"partic",
+				"participant"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"a",
+				"attributes"
+			],
+			[
+				"h2",
+				"h2	Tag"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"but",
+				"button	Tag"
+			],
+			[
+				"im",
+				"img	img"
+			],
+			[
+				"u",
+				"ul	HTML - Unordered list"
+			],
+			[
+				"const",
+				"const	keyword"
+			],
+			[
+				"H",
+				"HTTP_PROVIDERS	const"
+			],
+			[
+				"Htt",
+				"HttpTestService	alias"
+			],
+			[
+				"val",
+				"value	property"
+			],
+			[
+				"Form",
+				"FormBuilder	alias"
+			],
+			[
+				"Cont",
+				"Contact	alias"
+			],
+			[
+				"pri",
+				"private	keyword"
+			],
+			[
+				"fir",
+				"firstName	parameter"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"imp",
+				"import	keyword"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"contacts",
+				"contacts	parameter"
+			],
+			[
+				"Contac",
+				"ContactService	alias"
+			],
+			[
+				"Cla",
+				"class	keyword"
+			],
+			[
+				"g",
+				"getMonth	method"
+			],
+			[
+				"to",
+				"toString	method"
+			],
+			[
+				"re",
+				"resolve	method"
+			],
+			[
+				"Hero",
+				"HeroService	alias"
+			],
+			[
+				"pro",
+				"providers	property"
+			],
+			[
+				"Com",
+				"Component	alias"
+			],
+			[
+				"Her",
+				"HEROES	var"
+			],
+			[
+				"exp",
+				"export	keyword"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package Control",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"vintageous",
+				"Vintageous: Exit from command mode"
+			],
+			[
+				"vi",
+				"Vintageous: Reset"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/viperdrifta/Projects/my-app/package.json",
+		"/Users/viperdrifta/Projects/my-app/ember-cli-build.js",
+		"/Users/viperdrifta/Projects/my-app/app/routes/scientists.js",
+		"/Users/viperdrifta/Projects/my-app/my-app.sublime-project",
+		"/Users/viperdrifta/Projects/meeting-cost-calculator/app/models/time.js",
+		"/Users/viperdrifta/Projects/meeting-cost-calculator/app/models/participant.js",
+		"/Users/viperdrifta/Projects/meeting-cost-calculator/app/components/meeting-cost.js",
+		"/Users/viperdrifta/Projects/meeting-cost-calculator/app/templates/components/meeting-cost.hbs",
+		"/Users/viperdrifta/Projects/meeting-cost-calculator/app/components/participants-list.js",
+		"/Users/viperdrifta/Projects/meeting-cost-calculator/app/templates/components/participants-list.hbs",
+		"/Users/viperdrifta/Projects/meeting-cost-calculator/app/components/meeting-time.js",
+		"/Users/viperdrifta/Projects/meeting-cost-calculator/app/templates/components/meeting-time.hbs",
+		"/Users/viperdrifta/Projects/meeting-cost-calculator/app/styles/app.css",
+		"/Users/viperdrifta/Projects/meeting-cost-calculator/app/templates/index.hbs",
+		"/Users/viperdrifta/Projects/meeting-cost-calculator/app/index.html",
+		"/Users/viperdrifta/Projects/meeting-cost-calculator/firebase.json",
+		"/Users/viperdrifta/Projects/meeting-cost-calculator/app/routes/index.js",
+		"/Users/viperdrifta/Projects/meeting-cost-calculator/app/models/participants.js",
+		"/Users/viperdrifta/Projects/meeting-cost-calculator/package.json",
+		"/Users/viperdrifta/Projects/meeting-cost-calculator/bower.json",
+		"/Users/viperdrifta/Projects/my-app/bower.json",
+		"/Users/viperdrifta/Projects/super-rentals/app/templates/application.hbs",
+		"/Users/viperdrifta/Projects/super-rentals/app/templates/index.hbs",
+		"/Users/viperdrifta/Projects/meeting-cost-calculator/app/templates/application.hbs",
+		"/Users/viperdrifta/Projects/meeting-cost-calculator/README.md",
+		"/Users/viperdrifta/Projects/my-app/app/templates/application.hbs",
+		"/Users/viperdrifta/Projects/super-rentals/app/components/filter-listing.js",
+		"/Users/viperdrifta/Projects/super-rentals/app/templates/components/filter-listing.hbs",
+		"/Users/viperdrifta/Projects/super-rentals/app/helpers/rental-property-type.js",
+		"/Users/viperdrifta/Projects/super-rentals/app/templates/components/rental-listing.hbs",
+		"/Users/viperdrifta/Projects/super-rentals/app/components/rental-listing.js",
+		"/Users/viperdrifta/Projects/super-rentals/app/mirage/config.js",
+		"/Users/viperdrifta/Projects/super-rentals/app/controllers/index.js",
+		"/Users/viperdrifta/Projects/super-rentals/package.json",
+		"/Users/viperdrifta/Projects/super-rentals/bower.json",
+		"/Users/viperdrifta/Projects/super-rentals/firebase.json",
+		"/Users/viperdrifta/Projects/super-rentals/app/routes/index.js",
+		"/Users/viperdrifta/Projects/super-rentals/app/models/rental.js",
+		"/Users/viperdrifta/Projects/super-rentals/app/templates/contact.hbs",
+		"/Users/viperdrifta/Projects/super-rentals/app/templates/about.hbs",
+		"/Users/viperdrifta/Projects/super-rentals/app/components/templates/components/rental-listing.js",
+		"/Users/viperdrifta/Projects/super-rentals/app/components/templates/index.js",
+		"/Users/viperdrifta/Projects/super-rentals/app/components/templates/about.js",
+		"/Users/viperdrifta/Projects/super-rentals/app/router.js",
+		"/Users/viperdrifta/Projects/my-app/app/routes/presidents.js",
+		"/Users/viperdrifta/Projects/my-app/app/templates/presidents.hbs",
+		"/Users/viperdrifta/Projects/my-app/app/templates/components/people-list.hbs",
+		"/Users/viperdrifta/Projects/my-app/app/templates/scientists.hbs",
+		"/Users/viperdrifta/Projects/angular2-youtube-tutorial/app/contacts/contact-list.component.ts",
+		"/Users/viperdrifta/Projects/angular2-youtube-tutorial/app/app.component.ts",
+		"/Users/viperdrifta/Projects/angular2-countdown-clock/index.html",
+		"/Users/viperdrifta/Projects/angular2-countdown-clock/app/boot.ts",
+		"/Users/viperdrifta/Projects/angular2-countdown-clock/app/countdown.component.ts",
+		"/Users/viperdrifta/Projects/angular2-countdown-clock/app/app.component.ts",
+		"/Users/viperdrifta/Projects/angular2-youtube-tutorial/index.html",
+		"/Users/viperdrifta/Projects/angular2-youtube-tutorial/app/contacts/contact.component.ts",
+		"/Users/viperdrifta/Projects/angular2-youtube-tutorial/app/contacts/contact.service.ts",
+		"/Users/viperdrifta/Projects/angular2-countdown-clock/app/datepicker/datepicker.ts",
+		"/Users/viperdrifta/Projects/angular2-countdown-clock/app/datepicker.component.ts",
+		"/Users/viperdrifta/Projects/angular2-firebase-example/app/boot.ts",
+		"/Users/viperdrifta/Projects/angular2-firebase-example/index.html",
+		"/Users/viperdrifta/Projects/angular2-firebase-example/app/app.component.ts",
+		"/Users/viperdrifta/Projects/angular2-firebase-example/app/firebase.service.ts",
+		"/Users/viperdrifta/Projects/angular2-firebase-example/app/css/myApp.css",
+		"/Users/viperdrifta/Projects/angular2-firebase-example/tsconfig.json",
+		"/Users/viperdrifta/Projects/angular2-firebase-example/package.json",
+		"/Users/viperdrifta/Projects/angular2-youtube-tutorial/app/css/myApp.css",
+		"/Users/viperdrifta/Projects/angular2-youtube-tutorial/app/http-test.service.ts",
+		"/Users/viperdrifta/Projects/angular2-youtube-tutorial/app/http-test.component.ts",
+		"/Users/viperdrifta/Projects/angular2-youtube-tutorial/app/contacts/new-contact.component.ts",
+		"/Users/viperdrifta/Projects/angular2-youtube-tutorial/app/boot.ts",
+		"/Users/viperdrifta/Projects/angular2-youtube-tutorial/app/contacts/contact.ts",
+		"/Users/viperdrifta/Projects/angular2-youtube-tutorial/app/contacts/mock-contact.ts",
+		"/Users/viperdrifta/Projects/angular2-youtube-tutorial/app/css/contact-list.css",
+		"/Users/viperdrifta/Projects/angular2-youtube-tutorial/app/css/myapp.css",
+		"/Users/viperdrifta/Projects/angular2-youtube-tutorial/app/css/mydatepicker.css",
+		"/Users/viperdrifta/Projects/angular2-countdown-clock/app/mock-heroes.ts",
+		"/Users/viperdrifta/Projects/angular2-countdown-clock/app/hero.ts",
+		"/Users/viperdrifta/Projects/angular2-countdown-clock/app/hero.service.ts",
+		"/Users/viperdrifta/Projects/angular2-countdown-clock/app/mydatepicker.ts",
+		"/Users/viperdrifta/Projects/angular2-countdown-clock/app/interfaces.ts",
+		"/Users/viperdrifta/Projects/angular2-countdown-clock/app/hero-detail.component.ts",
+		"/Users/viperdrifta/Projects/angular2-countdown-clock/app/sampleapp.ts",
+		"/Users/viperdrifta/Projects/angular2-countdown-clock/app/template/mydatepicker.html",
+		"/Users/viperdrifta/Projects/angular2-countdown-clock/app/css/mydatepicker.css",
+		"/Users/viperdrifta/Projects/angular2-countdown-clock/package.json",
+		"/Users/viperdrifta/Projects/angular2-tour-of-heros/index.html",
+		"/Users/viperdrifta/Projects/angular2-tour-of-heros/app/app.component.ts",
+		"/Users/viperdrifta/Projects/angular2-tour-of-heros/app/hero.service.ts",
+		"/Users/viperdrifta/Projects/angular2-tour-of-heros/app/hero-detail.component.ts",
+		"/Users/viperdrifta/Projects/angular2-tour-of-heros/app/mock-heroes.ts",
+		"/Users/viperdrifta/Projects/angular2-tour-of-heros/app/hero.ts",
+		"/Users/viperdrifta/Projects/angular2-tour-of-heros/app/boot.ts",
+		"/Users/viperdrifta/Projects/angular2-quickstart/index.html",
+		"/Users/viperdrifta/Projects/angular2-quickstart/package.json",
+		"/Users/viperdrifta/Projects/angular2-quickstart/app/app.component.ts",
+		"/Users/viperdrifta/Projects/angular2-quickstart/tsconfig.json",
+		"/Users/viperdrifta/Projects/angular2-quickstart/app/boot.ts",
+		"/Users/viperdrifta/Projects/getJaunt/server/routes/index.js",
+		"/Users/viperdrifta/Projects/getJaunt/client/public/javascripts/app.js",
+		"/Users/viperdrifta/Projects/Autorun/Old/NCUExp.au3",
+		"/Users/viperdrifta/Projects/Autorun/Old/Autorun 3.3.1 08-06-2015.au3",
+		"/Users/viperdrifta/Projects/getJaunt/client/public/stylesheets/style.css",
+		"/Users/viperdrifta/Projects/getJaunt/client/views/index.html",
+		"/Users/viperdrifta/Projects/BlueBirdBoxMonitoring/quickstart.html",
+		"/Users/viperdrifta/Projects/BlueBirdBoxMonitoring/quickstart.js",
+		"/Users/viperdrifta/Projects/BlueBirdBoxMonitoring/client_secret.json",
+		"/Users/viperdrifta/Projects/getJaunt/bin/www",
+		"/Users/viperdrifta/Projects/getJaunt/app.js",
+		"/Users/viperdrifta/Projects/getJaunt/server/models/database.js",
+		"/Users/viperdrifta/Projects/getJaunt/config.js",
+		"/Users/viperdrifta/Projects/getJaunt/public/javascripts/app.js",
+		"/Users/viperdrifta/Projects/getJaunt/views/index.html",
+		"/Users/viperdrifta/Projects/getJaunt/routes/index.js",
+		"/Users/viperdrifta/Projects/getJaunt/public/stylesheets/style.css",
+		"/Users/viperdrifta/node-postgres-todo/server/routes/index.js",
+		"/Users/viperdrifta/Projects/getJaunt/routes/config.js",
+		"/Users/viperdrifta/node-postgres-todo/config.js",
+		"/Users/viperdrifta/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/viperdrifta/Projects/getJaunt/models/database.js",
+		"/Users/viperdrifta/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/viperdrifta/Projects/getJaunt/database.js",
+		"/Users/viperdrifta/Projects/getJaunt/package.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"numberOf",
+			"'}}",
+			"for",
+			"contact",
+			"selectedContact",
+			"TOKEN_PATH",
+			".json",
+			"key",
+			"setApiKey"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ember-guide.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 128.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
